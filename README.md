@@ -1,5 +1,7 @@
 # eecs595-final-project
 
+There are four directories in this project: one directory for the data and three for the models.
+
 ## Data
 The data directory contains an ipynb file that created the combined dataset and saved it to a csv and directories that contain all of necessary data for the models to run.
 
