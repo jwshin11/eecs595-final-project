@@ -13,4 +13,4 @@ Each .ipynb file is self-contained so everything that is needed for that experim
 
 The path to the data is hardcoded, so make sure when running these files, the data directory is in the same directory as the model directory.
 
-Note: I conducted all of these experiments in Google Drive and not a local directory so I had to manually change the filepaths to the data and saved models. I apologize if I missed any filepaths changes that cause the code to fail.
+Note: I conducted all of these experiments in Google Drive and not a local directory so I had to manually change the filepaths to the data and saved models.
