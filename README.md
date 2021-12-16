@@ -1,6 +1,8 @@
 # eecs595-final-project
 
-There are four directories in this project: one directory for the data and three for the models.
+There are four directories in this project: one directory for the data and three for the models. Git wouldn't let me push these four directories so I had to zip them up individually and upload them manually.
+
+Unzip the four zip files and you should get four directories called "data", "bert", "bi-lstm", and "cnn". Put all of those directories in the same parent directory and the project should be ready to go.
 
 ## Data
 The data directory contains an .ipynb file that created the combined dataset and saved it to a csv and directories that contain all of necessary data for the models to run. The .ipynb file is self-contained so to run the code, the cells just have to be run. 
